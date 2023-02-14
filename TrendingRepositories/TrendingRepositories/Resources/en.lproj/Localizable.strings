@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  TrendingRepositories
+
+  Created by Piotr Wesołowski on 13/02/2023.
+  
+*/
+
+// Repositories List View
+"Repositories-List-Title" = "Repositories";
+"Fetching-Repositories-Text" = "Fetching repositories...";
+
+// Internet Connection View
+"Not-Connected-Text" = "Not connected!";
+"Perform-Network-Request" = "Perform Network Request";
+
+"Is-Connected-Alert-Title" = "Success!";
+"Is-Connected-Alert-Message" = "The network request can be performed";
+"Is-Connected-Alert-Button-Text" = "OK";
+
+"Not-Connected-Alert-Title" = "No Internet Connection";
+"Not-Connected-Alert-Message" = "Please enable Wifi or Cellular data";
+"Not-Connected-Alert-Button-Text" = "Cancel";
+
+// Error View
+"Empty-Repositories-List-Message" = "Something went wrong...";
+"Empty-Repositories-List-Submessage" = "An alien is probably blocking your signal";
+"Fetch-Repositories-Again" = "RETRY";
